@@ -18,6 +18,10 @@
 - Displaying a kanji's meaning, reading, and grade information, when the kanji from the list is tapped.
 
 
+## Screenshots
+<img src="images/MainScreen.png" width = "234" height = "506">  <img src="images/KanjiList.png" width = "234" height = "506">  <img src="images/InformationPage.png" width = "234" height = "506">
+
+
 ## Setup
 To open this project locally, clone the project and open it in Xcode.
 
